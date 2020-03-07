@@ -1,0 +1,10 @@
+Soal nomor 1
+
+Bisa login terlebih dahulu ke menu login dengan email : admin@transisi.co.id password : transisi
+
+terdapat informasi berupa komentar untuk menandai sebagai jawaban dari poin-poin soal tes
+
+
+terima kasih atas perhatiannya
+
+tambahan informasi : Menggunakan Laravel versi 5.8
